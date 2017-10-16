@@ -2,8 +2,9 @@
     float: left;
 }
 img{
-    margin: auto;
+   margin-top:10px; 
+   margin-bottom:10px;
 }
 p{
-    margin: auto;
+    margin-left: 20px;
 }
